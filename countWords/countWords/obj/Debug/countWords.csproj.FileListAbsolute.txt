@@ -1,0 +1,7 @@
+D:\visual studio\C#\countWords\countWords\bin\Debug\countWords.exe.config
+D:\visual studio\C#\countWords\countWords\bin\Debug\countWords.exe
+D:\visual studio\C#\countWords\countWords\bin\Debug\countWords.pdb
+D:\visual studio\C#\countWords\countWords\obj\Debug\countWords.csproj.AssemblyReference.cache
+D:\visual studio\C#\countWords\countWords\obj\Debug\countWords.csproj.CoreCompileInputs.cache
+D:\visual studio\C#\countWords\countWords\obj\Debug\countWords.exe
+D:\visual studio\C#\countWords\countWords\obj\Debug\countWords.pdb
